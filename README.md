@@ -1,1 +1,3 @@
-# fe-react-mui-login-signin
+# Frontend - React MUI login/signin page
+
+## React + TypeScript + Vite
